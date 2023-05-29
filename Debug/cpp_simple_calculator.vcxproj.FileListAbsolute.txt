@@ -1,0 +1,2 @@
+C:\Users\smart\Dropbox\CppProgramming\Cpp_OOP_L1\Simple_Calculator\Debug\cpp_simple_calculator.vcxproj.AssemblyReference.cache
+C:\Users\smart\Dropbox\CppProgramming\Cpp_OOP_L1\Simple_Calculator\Debug\cpp_simple_calculator.exe

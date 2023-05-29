@@ -1,0 +1,5 @@
+﻿  main.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  cpp_simple_calculator.vcxproj -> C:\Users\smart\Dropbox\CppProgramming\Cpp_OOP_L1\Simple_Calculator\Debug\cpp_simple_calculator.exe
